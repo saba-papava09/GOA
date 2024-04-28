@@ -1,0 +1,20 @@
+print("saba age" +13)
+#("saba age 15") shecdoma iyo stringebsa da integerebshi mimateba 
+
+print=("50")
+#print=(50) schecdoma iyo is rom ciprebs ar unda brjyalebi
+
+print('goa")
+#print("goa") brwyalebi unda iyos msgavsi
+
+print(25:5) 
+#print(25//5) tu gvinda rom ricxvi gavyot mashin unda davuwerot es //
+
+print:("goa best")
+#print=("goa best") prints swirdeba an toloba an araferi
+
+5=goa 
+#goa=5 cvaladis sheqmnisas ar sheidzleba davwerot cipri
+
+mother name= "manana"
+#mother_name="name" cvladis dawerisas ar sheidzleba gamotoveba amitomac gvwirdeba snakecase (_)
